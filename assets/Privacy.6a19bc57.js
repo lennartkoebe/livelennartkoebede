@@ -1,1 +1,0 @@
-import{_ as e,o as c,c as o,a as s}from"./index.9991dcf5.js";const t={},a={class:"about"},_=s("h1",null,"Privacy",-1),n=[_];function r(i,d){return c(),o("div",a,n)}const f=e(t,[["render",r]]);export{f as default};
